@@ -24,6 +24,11 @@ html {
   }
 
   h1 {
+    background-image: url(../img/pattern.jpeg);
+    height: 180px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
     font-size: 100px;
     color: khaki;
     font-weight: bold;
@@ -39,14 +44,7 @@ html {
   h3 {
     font-size: 28px;
   }
-  
-  .header {
-    background-image: url(../img/pattern.jpeg);
-    height: 180px;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-  }
+
 
 .color1 {
   background-color: mediumspringgreen;
